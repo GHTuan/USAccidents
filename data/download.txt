@@ -1,0 +1,3 @@
+Vì lý do kích thước file quá lớn nên tải data bằng đường dẫn dưới rồi bỏ vào folder này
+
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
